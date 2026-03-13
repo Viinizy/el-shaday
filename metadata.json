@@ -1,0 +1,5 @@
+{
+  "name": "El Shaday Centro Automotivo",
+  "description": "Site moderno e sofisticado para o Centro Automotivo El Shaday em Contagem, MG. Especializado em mecânica geral e manutenção preventiva.",
+  "requestFramePermissions": ["geolocation"]
+}
